@@ -1,1 +1,4 @@
-Advent of Code 2024 Resolutions
+#Advent of Code Resolutions
+
+2024
+
